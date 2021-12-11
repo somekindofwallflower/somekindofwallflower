@@ -38,6 +38,6 @@
 
 <p align="center">
 	<a href="https://profile.codersrank.io/user/somekindofwallflower#Tech%20Skills">
-    <img width="600em" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=somekindofwallflow3r&labels=true&legend=true&tooltip=true&max-labels=24&branding=false&bg=%23151515">
+    <img width="600em" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=somekindofwallflower&labels=true&legend=true&tooltip=true&max-labels=24&branding=false&bg=%23151515">
   </a>
 </p>
