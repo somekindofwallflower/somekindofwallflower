@@ -12,7 +12,7 @@
 <p>“I always did something I was a little not ready to do. I think that’s how you grow. When there’s that moment of ‘Wow, I’m not really sure I can do this,’ and you push through those moments, that’s when you have a breakthrough.” – Marissa Mayer</p>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">e
+<p align="left">
 <a href="https://codepen.io/somekindofwallflower" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="somekindofwallflower" height="30" width="40" /></a>
 <a href="https://twitter.com/wallflower408" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wallflower408" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/17074530" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17074530" height="30" width="40" /></a>
