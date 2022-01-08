@@ -13,7 +13,7 @@ jobs:
       - uses: actions/checkout@v2
       - uses: yoshi389111/github-profile-3d-contrib@0.3.1
         env:
-          GITHUB_TOKEN: ${{ secrets.PERSONAL_3D_GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.CONTRIBUTION_3D }}
           USERNAME: ${{ github.repository_owner }}
           MAX_REPOS: ${{ github.repository_count }}
       - name: Commit & Push
