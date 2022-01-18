@@ -38,3 +38,9 @@
 (in the last 365 days, languages pie based on number of commits)
 
 ![](./profile-3d-contrib/profile-night-green.svg)
+
+<br/>
+<h3 align="center">
+	⬇ Check my pinned projects below and leave a ⭐️ ⬇
+</h3>
+
