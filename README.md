@@ -1,4 +1,4 @@
-<h1 align="center">Hello World <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px></h1>
+<h1 align="center">Hello World <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=40px></h1>
 <h3 align="center"> I'm Wallflower, A passionate Web developer from Milano</h3>
 
 - 🌱 I’m currently mastering my skills in **Javascript**
@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **React, Vue**
 
-#### [Click here to ask or suggest anything about my repositories!](https://github.com/somekindofwallflower/somekindofwallflower/issues/new)
+#### [Click here to ask or suggest anything about my repositories!](https://github.com/somekindofwallflower/somekindofwallflower/issues/new) <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"><br><br>
 
 <p><a href="https://ko-fi.com/somekindofwallflower"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="somekindofwallflower" /></a></p><br><br>
 
