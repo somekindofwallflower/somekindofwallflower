@@ -12,7 +12,14 @@
 <p><a href="https://ko-fi.com/somekindofwallflower"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="somekindofwallflower" /></a></p><br><br>
 
 <h3 align="left"> Favorite quote:</h3>
-<p>“I always did something I was a little not ready to do. I think that’s how you grow. When there’s that moment of ‘Wow, I’m not really sure I can do this,’ and you push through those moments, that’s when you have a breakthrough.” – Marissa Mayer</p>
+<!-- <p>“I always did something I was a little not ready to do. I think that’s how you grow. When there’s that moment of ‘Wow, I’m not really sure I can do this,’ and you push through those moments, that’s when you have a breakthrough.” – Marissa Mayer</p> -->
+
+<!-- 2022-02-23 -->
+<p>“This is one more piece of advice I have for you: don't get impatient. Even if things are so tangled up you can't do anything, don't get desperate or blow a fuse and start yanking on one particular thread before it's ready to come undone. You have to realize it's going to be a
+long process and that you'll work on things slowly, one at a time.”
+
+Haruki Murakami, Norwegian Wood
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
