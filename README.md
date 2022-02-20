@@ -1,4 +1,4 @@
-<h1 align="center">Hello World <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=40px></h1>
+<h1 align="center">Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=40px></h1>
 <h3 align="center"> I'm Wallflower, A passionate Web developer from Milano</h3>
 
 - 🌱 I’m currently mastering my skills in **Javascript**
