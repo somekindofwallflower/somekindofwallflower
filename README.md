@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **Javascript projects**
 
-- 💬 Ask me about **React, Vue**	
+- 💬 Ask me about **React, Vue, Angular, NodeJs**	
  <br>
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/somekindofwallflower) [![Visitors](https://visitor-badge.glitch.me/badge?page_id=somekinfofwallflower.visitor-badge)](https://github.com/somekindofwallflower) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/somekindofwallflower)
