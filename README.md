@@ -1,11 +1,14 @@
 <h1 align="center">Hello Fellow < Developers/ ></h1>
 <h3 align="center"> I'm Wallflower, A passionate Web developer from Milano</h3>
 
-- 🌱 I’m currently mastering my skills in **Javascript**
+<!-- - 🌱 I’m currently mastering my skills in **Javascript**
 
 - 👯 I’m looking to collaborate on **Javascript projects**
 
-- 💬 Ask me about **React, Vue, Angular, NodeJs**	
+- 💬 Ask me about **React, Vue, Angular, NodeJs**	 -->
+I love the collaborative and open-source nature of the web development community, and I'm excited to share my projects and contributions on GitHub. My goal is to not only continue learning and growing as a developer, but also to contribute to and learn from the amazing projects and people in the GitHub community.
+
+Feel free to check out my repositories and connect with me on GitHub. I'm always open to new opportunities and collaborations, so don't hesitate to reach out!
  <br>
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/somekindofwallflower) [![Visitors](https://visitor-badge.glitch.me/badge?page_id=somekinfofwallflower.visitor-badge)](https://github.com/somekindofwallflower) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/somekindofwallflower)
